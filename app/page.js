@@ -188,17 +188,17 @@ export default function Home() {
           <h2 className="h2 text-4xl md:text-5xl mb-14 max-w-lg">Trois paires de mains, une même exigence.</h2>
           <div className="grid md:grid-cols-3 gap-6">
             <div className="reveal-up">
-              <img src="https://images.unsplash.com/photo-1595152772835-219674b2a8a6?w=500&q=80" className="img-treat w-full aspect-[3/4] object-cover mb-4" style={{ borderRadius: 24 }} alt="Coiffeuse" />
+              <img src="https://images.unsplash.com/photo-1494790108377-be9c29b29330?w=500&q=80" className="img-treat w-full aspect-[3/4] object-cover mb-4" style={{ borderRadius: 24 }} alt="Coiffeuse" />
               <p className="disp text-lg">Lina Faure</p>
               <p className="text-sm" style={{ color: "var(--text-muted)" }}>Fondatrice — coupe & couleur</p>
             </div>
             <div className="reveal-up">
-              <img src="https://images.unsplash.com/photo-1580489944761-15a19d654956?w=500&q=80" className="img-treat w-full aspect-[3/4] object-cover mb-4" style={{ borderRadius: 24 }} alt="Coiffeur" />
+              <img src="https://images.unsplash.com/photo-1500648767791-00dcc994a43e?w=500&q=80" className="img-treat w-full aspect-[3/4] object-cover mb-4" style={{ borderRadius: 24 }} alt="Coiffeur" />
               <p className="disp text-lg">Yanis Brel</p>
               <p className="text-sm" style={{ color: "var(--text-muted)" }}>Coupe homme & barbe</p>
             </div>
             <div className="reveal-up">
-              <img src="https://images.unsplash.com/photo-1607779097040-26e80aa78e66?w=500&q=80" className="img-treat w-full aspect-[3/4] object-cover mb-4" style={{ borderRadius: 24 }} alt="Coloriste" />
+              <img src="https://images.unsplash.com/photo-1517841905240-472988babdf9" className="img-treat w-full aspect-[3/4] object-cover mb-4" style={{ borderRadius: 24 }} alt="Coloriste" />
               <p className="disp text-lg">Odessa Kim</p>
               <p className="text-sm" style={{ color: "var(--text-muted)" }}>Coloriste & soins</p>
             </div>
