@@ -172,7 +172,7 @@ export default function Home() {
               <p className="text-sm" style={{ color: "var(--text-dim)" }}>À partir de 40€</p>
             </div>
             <div className="card p-7 md:col-span-2 flex items-center gap-6 reveal-up">
-              <img src="https://images.unsplash.com/photo-1487412947147-5cebf100ffc2?w=400&q=80" className="img-treat w-28 h-28 object-cover flex-shrink-0" style={{ borderRadius: 18 }} alt="Barbe" />
+              <img src="https://images.unsplash.com/photo-1519085360753-af0119f7cbe7?w=400&q=80" className="img-treat w-28 h-28 object-cover flex-shrink-0" style={{ borderRadius: 18 }} alt="Barbe" />
               <div>
                 <p className="disp text-xl mb-2">Barbe & coupe homme</p>
                 <p className="text-sm" style={{ color: "var(--text-dim)" }}>Taille précise, rasage à l&apos;ancienne, à partir de 35€</p>
